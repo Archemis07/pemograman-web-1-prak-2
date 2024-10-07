@@ -1,0 +1,29 @@
+nav {
+    background: #20A759;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background: #0B6B3A;
+}
+#intro {
+    background: #418fb1;
+    padding: 10px;
+}
+
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+}
+
+.btn-primary {
+    background: #E42A42;
+}
